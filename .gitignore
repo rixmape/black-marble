@@ -1,0 +1,12 @@
+# Dotfiles and temporary files
+.*/
+tmp.*
+*.tmp
+*.log
+
+# Python auxiliary files
+.venv/
+pycache/
+
+# Data files
+*.h5
