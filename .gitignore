@@ -9,5 +9,5 @@ tmp.*
 pycache/
 
 # Data files
-*.h5
+data/
 *.pdf
