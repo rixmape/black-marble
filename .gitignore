@@ -10,3 +10,4 @@ pycache/
 
 # Data files
 *.h5
+*.pdf
